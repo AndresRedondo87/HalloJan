@@ -1,0 +1,7 @@
+C:\Users\Andres Redondo\source\repos\HalloJan\HalloJan\bin\Debug\HalloJan.exe.config
+C:\Users\Andres Redondo\source\repos\HalloJan\HalloJan\bin\Debug\HalloJan.exe
+C:\Users\Andres Redondo\source\repos\HalloJan\HalloJan\bin\Debug\HalloJan.pdb
+C:\Users\Andres Redondo\source\repos\HalloJan\HalloJan\obj\Debug\HalloJan.csprojAssemblyReference.cache
+C:\Users\Andres Redondo\source\repos\HalloJan\HalloJan\obj\Debug\HalloJan.csproj.CoreCompileInputs.cache
+C:\Users\Andres Redondo\source\repos\HalloJan\HalloJan\obj\Debug\HalloJan.exe
+C:\Users\Andres Redondo\source\repos\HalloJan\HalloJan\obj\Debug\HalloJan.pdb
