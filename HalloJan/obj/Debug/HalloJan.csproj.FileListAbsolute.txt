@@ -5,3 +5,6 @@ C:\Users\Andres Redondo\source\repos\HalloJan\HalloJan\obj\Debug\HalloJan.csproj
 C:\Users\Andres Redondo\source\repos\HalloJan\HalloJan\obj\Debug\HalloJan.csproj.CoreCompileInputs.cache
 C:\Users\Andres Redondo\source\repos\HalloJan\HalloJan\obj\Debug\HalloJan.exe
 C:\Users\Andres Redondo\source\repos\HalloJan\HalloJan\obj\Debug\HalloJan.pdb
+C:\Users\Andres Redondo\Source\Repos\HalloJan\HalloJan\bin\Debug\NLog.dll
+C:\Users\Andres Redondo\Source\Repos\HalloJan\HalloJan\bin\Debug\NLog.xml
+C:\Users\Andres Redondo\Source\Repos\HalloJan\HalloJan\obj\Debug\HalloJan.csproj.CopyComplete

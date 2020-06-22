@@ -3,13 +3,22 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using NLog;
 
 namespace HalloJan
 {
     class Program
     {
+
+
+        private static Logger logger = LogManager.GetCurrentClassLogger();
+
+
         static void Main(string[] args)
         {
+
+            logger.Info("Hallo Jan Program Gestartet!");
+
 
             // Klasse 16 Jetzt bist du dran
             Console.WriteLine("----Kleinprogramm Hallo Jan----\n");
@@ -32,8 +41,10 @@ namespace HalloJan
             //Console.WriteLine("hier "+ "ist "+ "etwas "+ "nicht "+ "richtig.");
             ////
             ///
-
+            logger.Info("Jan wurde erfolgreich salutiert.");
             Console.ReadKey();
+
+            logger.Info("Hallo Jan Program beendet");
         }
     }
 }
